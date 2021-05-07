@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-06T10:44:38 IST" name="Default suite" finished-at="2021-05-06T10:45:25 IST" duration-ms="46327">
+    <groups>
+    </groups>
+    <test started-at="2021-05-06T10:44:38 IST" name="Default test" finished-at="2021-05-06T10:45:25 IST" duration-ms="46327">
+      <class name="com.crm.vtigerAllocatedTests.TC_31_CreateContact_Test">
+        <test-method is-config="true" signature="configBS()[pri:0, instance:com.crm.vtigerAllocatedTests.TC_31_CreateContact_Test@61386958]" started-at="2021-05-06T10:44:38 IST" name="configBS" finished-at="2021-05-06T10:44:38 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method is-config="true" signature="configBT()[pri:0, instance:com.crm.vtigerAllocatedTests.TC_31_CreateContact_Test@61386958]" started-at="2021-05-06T10:44:38 IST" name="configBT" finished-at="2021-05-06T10:44:38 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBT -->
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.crm.vtigerAllocatedTests.TC_31_CreateContact_Test@61386958]" started-at="2021-05-06T10:44:38 IST" name="configBC" finished-at="2021-05-06T10:44:49 IST" duration-ms="11093" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.vtigerAllocatedTests.TC_31_CreateContact_Test@61386958]" started-at="2021-05-06T10:44:49 IST" name="setUp" finished-at="2021-05-06T10:44:56 IST" duration-ms="6188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="createContact()[pri:0, instance:com.crm.vtigerAllocatedTests.TC_31_CreateContact_Test@61386958]" started-at="2021-05-06T10:44:56 IST" name="createContact" finished-at="2021-05-06T10:45:21 IST" duration-ms="25635" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createContact -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.vtigerAllocatedTests.TC_31_CreateContact_Test@61386958]" started-at="2021-05-06T10:45:21 IST" name="tearDown" finished-at="2021-05-06T10:45:23 IST" duration-ms="1808" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:com.crm.vtigerAllocatedTests.TC_31_CreateContact_Test@61386958]" started-at="2021-05-06T10:45:23 IST" name="configAC" finished-at="2021-05-06T10:45:25 IST" duration-ms="1532" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+        <test-method is-config="true" signature="configAT()[pri:0, instance:com.crm.vtigerAllocatedTests.TC_31_CreateContact_Test@61386958]" started-at="2021-05-06T10:45:25 IST" name="configAT" finished-at="2021-05-06T10:45:25 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAT -->
+        <test-method is-config="true" signature="configAs()[pri:0, instance:com.crm.vtigerAllocatedTests.TC_31_CreateContact_Test@61386958]" started-at="2021-05-06T10:45:25 IST" name="configAs" finished-at="2021-05-06T10:45:25 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAs -->
+      </class> <!-- com.crm.vtigerAllocatedTests.TC_31_CreateContact_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
